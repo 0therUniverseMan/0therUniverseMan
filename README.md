@@ -11,6 +11,4 @@ You can click the Preview link to take a look at your changes. https://github.co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0theruniverseman&langs_count=5_icons=true&theme=outrun)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0theruniverseman&show_icons=true&locale=en" alt="0theruniverseman" /></p>
-
 ![0theruniverseman GitHub stats](https://github-readme-stats.vercel.app/api?username=0theruniverseman&show_icons=true&theme=yeblu)
